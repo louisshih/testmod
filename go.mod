@@ -1,3 +1,1 @@
-module github.com/louisshih/testmod
-
-go 1.12
+module github.com/louisshih/testmod/v2
